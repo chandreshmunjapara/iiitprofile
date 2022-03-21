@@ -1,0 +1,53 @@
+{
+	"basics": {
+		"name": "Munjapara Chandreshkumar",
+		"label": "Student",
+		"picture": "https://github.com/chandreshmunjapara",
+		"email": "2019kucp1017@iiitkota.ac.in",
+		"phone": "9825167545",
+		"summary": "I am a passionate engineer looking for unique challenging roles in a dynamic and engaging environment. I have the ability to lead people and work diligently to achieve my goal.Currently I am Campus Ambassador of Coding Ninjas (Ed-tech company).",
+		"location": {
+			"address": "To:Sanali,post:Sanali",
+			"postalCode": "365450",
+			"city": "Amreli",
+			"countryCode": "India",
+			"region": "Gujarat"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "chandreshmunjapara",
+				"url": "https://github.com/chandreshmunjapara"
+			},
+			{
+				"network": "linkedin",
+				"username": "Munjapara Chandreshkumar",
+				"url": "https://www.linkedin.com/in/munjapara-chandreshkumar-745b2a197/"
+			},
+			{
+				"network": "Instagram",
+				"username": "chandresh_munjapara",
+				"url": "https://www.instagram.com/chandresh_munjapara/"
+			}
+		]
+	},
+	
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-02-08 //Date",
+		"endDate": "2023",
+		"gpa": "7.2 (till 5th sem)",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++","Java","Python","Sql"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton"]
+	}]
+}
